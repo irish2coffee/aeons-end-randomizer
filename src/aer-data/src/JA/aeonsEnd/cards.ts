@@ -4,7 +4,7 @@ export const cards: ICard[] = [
   {
     type: 'Gem',
     expansion: 'AE',
-    name: 'Diamond Cluster',
+    name: '複合ダイヤ',
     id: 'DiamondCluster',
     cost: 4,
     effect: `

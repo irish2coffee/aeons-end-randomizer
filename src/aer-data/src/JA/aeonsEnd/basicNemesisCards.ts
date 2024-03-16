@@ -6,11 +6,11 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     expansion: 'AE',
     tier: 1,
     type: 'Power',
-    name: 'Agony Field',
+    name: '苦悶空間',
     power: 2,
     effect: `
       <p>
-        <b>To Discard:</b> Destroy a card in hand that costs 2 <span class="aether">&AElig;</span> or more.<br />
+        <b>廃棄:</b> 手札から二枚 <span class="aether">&AElig;</span> もっと。<br />
         <br />
         <b>Power 2:</b> Unleash. Any player discards three cards and then draws one card.
       </p>
